@@ -19,7 +19,7 @@ class About extends Component {
 							/>
 						</div>
 
-						<h2>Julia Sosa</h2>
+						<h2>María Julia Sosa</h2>
 						<h4 style={{color: 'grey'}}>Arquitecta</h4>
 						<hr style={{width: '50%', borderTop: '3px solid #67B26F'}}/>
 						<p>Me considero una persona responsable, dinámica y creativa. Deseo poner en páctica y transmitir todos los conocimientos adquiridos durante mi formación universitaria y poder formar parte de un equipo de trabajo que me permita desarrollar tanto personal como profesionalmente. Cuento con disponibilidad horaria y ansias de ampliar mi campo laboral hacia nuevos desafíos.</p>
